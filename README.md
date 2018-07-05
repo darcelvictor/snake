@@ -1,3 +1,3 @@
 # snake
 snake en js
-modifié depuis github
+modifié depuis le mac
